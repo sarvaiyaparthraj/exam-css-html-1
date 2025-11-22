@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+.header{
+    border: 2px solid black;
+}
+
+tr{
+    border: 3px solid black;
+}
+
+td{
+    border: 3px solid black;
+}
+.header td {
+    background: black;
+    color: white;
+    padding: 12px;
+}
+.header a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 13px;
+}
+.logo {
+    width: 25%;
+}
+.menu {
+    width: 60%;
+}
+.icons {
+    width: 15%;
+    height: 30px;
+    color: white;
+}
+
+
+.hero-img {
+    width: 100%;
+    height: auto;
+}
+
+
+.title {
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.products img {
+    width: 100%;
+}
+.product h3 {
+    margin-bottom: 5px;
+}
+.view-btn {
+    padding: 10px 25px;
+    border: 1px solid black;
+    background: white;
+    cursor: pointer;
+}
+
+
+.categories img {
+    width: 100%;
+}
+
+
+.footer td {
+    background: #5ea38c;
+    padding: 20px;
+    vertical-align: top;
+}
+.footer h4 {
+    margin-top: 0;
+}
+
+.email-input {
+    padding: 8px;
+    width: 90%;
+}
